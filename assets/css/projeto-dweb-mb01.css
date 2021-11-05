@@ -13,3 +13,16 @@
   color: #fff;
   border-radius: 0.75rem;
 }
+
+.circle-image{
+  display: inline-block;
+  border-radius: 50%;
+  overflow: hidden;
+  width: 9rem;
+  height: 9rem;
+}
+.circle-image img{
+  width:100%;
+  height:100%;
+  object-fit: cover;
+}
