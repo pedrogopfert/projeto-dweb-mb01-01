@@ -26,3 +26,11 @@
   height:100%;
   object-fit: cover;
 }
+
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+
+
+}
